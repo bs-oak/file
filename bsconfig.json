@@ -1,6 +1,6 @@
 {
   "name": "@bs-oak/file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "sources": {
     "dir": "src",
     "subdirs": true
@@ -10,6 +10,7 @@
     "in-source": true
   },
   "suffix": ".bs.js",
+  "namespace": true,
   "bs-dependencies": [],
   "warnings": {
     "error": "+101"
