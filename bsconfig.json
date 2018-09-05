@@ -1,6 +1,6 @@
 {
   "name": "@bs-oak/file",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "sources": {
     "dir": "src",
     "subdirs": true
