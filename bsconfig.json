@@ -11,7 +11,9 @@
   },
   "suffix": ".bs.js",
   "namespace": true,
-  "bs-dependencies": [],
+  "bs-dependencies": [    
+    "@bs-oak/core"
+  ],
   "warnings": {
     "error": "+101"
   },

@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@bs-oak/core": "^0.1.12",
     "bs-platform": "^4.0.18"
   }
 }

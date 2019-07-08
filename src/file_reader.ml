@@ -1,3 +1,5 @@
+module Scheduler = BsOakCore.Fx.Scheduler
+
 module FileReader = struct
   type t
   external new' : unit -> t = "FileReader" [@@bs.new]
