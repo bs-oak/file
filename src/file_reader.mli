@@ -1,0 +1,1 @@
+val read_as_data_url: File.t -> (string, Dom.progressEvent) BsOakCore.Task.t
